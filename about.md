@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A data scientist by proffesion. Interested in Neural Networks, Deep Learning and Big Data. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A traveller and foodie by heart. Been to almost all states in India. Wish to travel the world someday.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saurav13iitr@gmail.com](mailto:saurav13iitr@gmail.com)
