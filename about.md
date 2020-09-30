@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
-A data scientist by proffesion. Interested in Neural Networks, Deep Learning and Big Data. 
+Data scientist with a passion to solve business problems using machine learning. Two years’ experience as in data analysis and data management in the retail industry. Proficient in end to end development of machine learning models and showcasing actionable insights to technical as well as non-technical audience.
 
-### More Information
+### Interests
+> Gaming
+> Cricket
+> Travelling
+> Photography
+> Adventure sports
 
-A traveller and foodie by heart. Been to almost all states in India. Wish to travel the world someday.
+#### Trivia
+> Been to 26 states in India.
+> Ate a whole chicken alone.
+
 
 ### Contact me
 

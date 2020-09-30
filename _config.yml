@@ -6,7 +6,7 @@
 name: Saurav Chowdhury
 
 # Short bio or description (displayed in the header)
-description: Data Scientist at UBC
+description: Data Scientist - Looking for Opportunities
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/10853906?s=460&v=4
@@ -19,14 +19,14 @@ avatar: https://avatars2.githubusercontent.com/u/10853906?s=460&v=4
 footer-links:
   dribbble:
   email: saurav13iitr@gmail.com
-  facebook: https://www.facebook.com/saurav.chowdhury.503
+  facebook:
   flickr:
   github: https://github.com/saurav193
-  instagram:
+  instagram: https://www.instagram.com/_sauravc_
   linkedin: https://www.linkedin.com/in/saurav-chowdhury193
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,17 +37,17 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-179243594-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://saurav193.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: https://github.com/saurav193/saurav193.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
