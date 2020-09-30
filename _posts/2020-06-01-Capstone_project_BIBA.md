@@ -2,9 +2,6 @@
 layout: Blog 5
 title: Capstone project with BIBA Ventures Inc.
 ---
-
-### Brief
-
 * Processed and analyzed large datasets with advanced feature engineering techniques like PCA, RFE, etc.
 * Developed robust machine learning models using python sklearn library to predict the number of sessions in a playground per month
 * Explored customized models using combinations of off-the-shelf algorithms like xgboost, lightgbm, random forest to get a better fit.
