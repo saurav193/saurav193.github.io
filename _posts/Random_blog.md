@@ -2,6 +2,7 @@
 layout: post
 title: Blogpost not for Public
 ---
+*/Just keep these above 2 lines/*
 
 1.This is a Random blog.
 2.This is used for various testing purposes.
@@ -15,39 +16,6 @@ Any mass produced car today is built through an __[assembly line](https://en.wik
 <img src="../images/car_assembly.jpg"/>
 
 [source](https://blog.frankfurt-school.de/wp-content/uploads/2018/10/1-460x231.png)
-
-
-Wondering why this concept is described on this article on Neural Networks? It's because of the uncanny resemblence of both these concepts.
-
-Suppose a startup is building assembly line in a car factory from scratch. Now suppose they don't know much about which people to hire in which team and they think of doing this on a trial and error basis. The assembly line consists of say 4 teams - Steel parts, Engines, Accessories and  Electronincs. They hire some people in each team and build a prototype and then compare it with the actual specifications of the car they want to build. This car will never be perfect and they need to make changes in necessary team so that the right person is at the right job. They again build the car and compare with the ideal design. This way they improves their car and makes it closer to the ideal design. 
-
-As we saw in an assembly line there are groups of people doing a specific task similar to a layers of neurons in an artificial neural network(ANN). The products flows from one group to the other and on each level there is a important addition is made to the product. Similarly the output from one layer goes as input to the next layer in ANN. Here at the begining you assign people without knowing their proficiency and similary in a ANN the first time each layer is randomly created. Finally you compare the built car to the product you wish to build which is same a comparing the output of a neural network with the given output. Then you start to change the composition each groups of people to make the ideal car. In ANN you adjust the weights of each layer to get the final output as close as possible to the given value.
-
-### Overview of Neural Networks
-Here is how a very simplified ANN looks like :
-
-<img src="../images/Neural_network_1.png"/>
-
-[source](https://blog.frankfurt-school.de/wp-content/uploads/2018/10/1-460x231.png)
-
-Here we want to predict the probability of them opting for a life insurance policy. We have variables as - income, age, education and house owner or not. These variables are given as input in the first layer and then output as some function say $$Y_i = W_i * X_i + b_i$$ where $$X_i$$ are the input parameters,$$W_i$$ are the weights and $$b_i$$ are the bias for a layer. This process happens for all the neurons in each layer. And the output of one layer is fed as input to the next one. 
-
-If you are wondering why these are named as "neural networks", it is because their functioning is very similar to that of neurons in our nerves and brains.  
-
-<img src="../images/The-biological-neuron.png" width="500"/>
-
-[source](https://www.researchgate.net/profile/Ana_Neves9/publication/320384373/figure/fig2/AS:682337809469452@1539693419868/The-biological-neuron.png)                                              
-
-<img src="../images/single_neuron.jpg" width="500"/>
-
-[source](https://miro.medium.com/max/1302/1*UA30b0mJUPYoPvN8yJr2iQ.jpeg)
-
-
-In the above diagram of a single neuron, you can see how the output is computed inside a single neuron. The bias term and the weights and activation functions are specific to any particular layer of neurons. Generally keep the $$b$$ constant for each layer and we select $$W_i$$ based on the adjustment required. As discussed earlier we first compute a output $$Y$$ and compare it actual output $$Y_o$$. Then we find error term $${\delta} = Y - Y_o $$ and adjust the weights as $$ \delta{W} = W_i * {\delta} $$ . This process is repeated until the error term $${\delta}$$ reaches its threshold limit and does not change much. 
-Then we get the final output and this process is fully automated. This leads us to the technical definition of neural networks:  **"Artificial neural networks (ANN) or connectionist systems are computer systems in which a number of processors are interconnected in a manner suggestive of the connections between neurons in a human brain and which is able to learn by a process of trial and error."**     
-
-[source](https://www.merriam-webster.com/dictionary/neural%20network)
-
 
 ### Working of a Neural Network
 
